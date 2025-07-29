@@ -63,7 +63,7 @@
 
 - From winning high school competitions to creating full-stack products
 - Now contributing to open-source, hackathons, and side-projects
-- Looking to intern in backend / DevOps roles and contribute to impactful engineering teams!
+- Looking to intern in backend / frontend roles and contribute to impactful engineering teams!
 
 ---
 
